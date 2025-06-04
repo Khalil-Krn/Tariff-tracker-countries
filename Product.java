@@ -40,6 +40,7 @@ public class Product implements Comparable<Product>{
     public double getFinalPrice() {
         return finalPrice;
     }
+
     //Setters
     public void setProductName(String productName) {
     	this.productName = productName;
